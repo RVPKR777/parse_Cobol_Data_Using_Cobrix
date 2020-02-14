@@ -6,7 +6,7 @@ object pokemon {
     val spark = SparkSession.builder().config("spark.master", "local").appName("Pokemon").getOrCreate()
     val filerdd = spark.read.textFile("C:/Users/pavan/Desktop/pokemon.csv").cache()
     val namerdd = filerdd.filter(line => line.contains("water")).count()
-    println(s"water pokemons count are: $namerdd")
+    println(s"$namerdd")
     spark.stop()
   }
 }
