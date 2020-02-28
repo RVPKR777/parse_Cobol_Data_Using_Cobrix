@@ -9,7 +9,7 @@ object pokemon {
     //val namerdd = filerdd.filter(line => line.contains("water")).count()
     //println(filerdd.first())
      // println(filerdd.map(_.split(",")(2)))
-    val a = filerdd.map(_.split(",")(2))
+    //val a = filerdd.map(_.split(",")(2))
     spark.stop()
   }
 }
