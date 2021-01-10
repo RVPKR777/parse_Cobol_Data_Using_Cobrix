@@ -9,16 +9,16 @@ object corbix_Example {
       .master("local[*]")
       .getOrCreate()
 
-    val df = spark
+    val A1df = spark
       .read
       .format("cobol")
-      .option("copybook", "C:/Users/pavan/Downloads/copy_book.cpy")
-      //.option("schema_retention_policy", "collapse_root")
-      .load("C:/Users/pavan/Downloads/source_binary.txt")
+      .option("copybook", "Copy book path")
+      //.option("schema_retention_policy", "collapse_root")    //To check data with schema
+      .load("data file path")
 
-    df.show(100, truncate = false)
+    A1df.show(100, truncate = false)
 
-    val op= df.rdd.map(_.toString().replace("[","").replace("]", "")).saveAsTextFile("C:/Users/pavan/Desktop/sample1")
+    val op= A1df.rdd.map(_.toString().replace("[","").replace("]", "")).saveAsTextFile("path")
 
   }
 }

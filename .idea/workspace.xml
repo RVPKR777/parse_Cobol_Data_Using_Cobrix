@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3217db45-46ca-4cf4-b417-b099fe2eedc4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/azureSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/corbix_Example.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache_Spark.iml" beforeDir="false" afterPath="$PROJECT_DIR$/corbix_sample.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SimpleApp.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/moviedataset.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pokemon.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test2.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SimpleApp$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SimpleApp$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SimpleApp$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SimpleApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moviedataset$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moviedataset$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/moviedataset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pokemon$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pokemon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/untitled1-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/untitled1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/corbix_Example.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/corbix_Example.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +15,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/RVPKR777/untitled1.git" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -209,7 +187,44 @@
       <option name="presentableId" value="Default" />
       <updated>1579985688364</updated>
     </task>
+    <task id="LOCAL-00001" summary="code_push">
+      <created>1610243612723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610243612723</updated>
+    </task>
+    <task id="LOCAL-00002" summary="code_push">
+      <created>1610243706012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610243706012</updated>
+    </task>
+    <task id="LOCAL-00003" summary="code_push">
+      <created>1610243717946</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610243717946</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code_push" />
+    <option name="LAST_COMMIT_MESSAGE" value="code_push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2610" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1610237079473">
@@ -225,37 +240,41 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2609" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610242685726" />
-    <state x="465" y="114" key="CommitChangelistDialog2" timestamp="1610243713294">
+    <state x="465" y="114" key="CommitChangelistDialog2" timestamp="1610243717415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="465" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243713294" />
+    <state x="465" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243717415" />
     <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1610243054156">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610243054156" />
-    <state width="1877" height="94" key="GridCell.Tab.0.bottom" timestamp="1610243615934">
+    <state width="1877" height="94" key="GridCell.Tab.0.bottom" timestamp="1610243959400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243615934" />
+    <state width="1877" height="94" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243959400" />
     <state width="1877" height="94" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610242778097" />
-    <state width="1877" height="94" key="GridCell.Tab.0.center" timestamp="1610243615934">
+    <state width="1877" height="94" key="GridCell.Tab.0.center" timestamp="1610243959400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243615934" />
+    <state width="1877" height="94" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243959400" />
     <state width="1877" height="94" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610242778097" />
-    <state width="1877" height="94" key="GridCell.Tab.0.left" timestamp="1610243615934">
+    <state width="1877" height="94" key="GridCell.Tab.0.left" timestamp="1610243959399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243615934" />
+    <state width="1877" height="94" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243959399" />
     <state width="1877" height="94" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610242778097" />
-    <state width="1877" height="94" key="GridCell.Tab.0.right" timestamp="1610243615934">
+    <state width="1877" height="94" key="GridCell.Tab.0.right" timestamp="1610243959400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243615934" />
+    <state width="1877" height="94" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243959400" />
     <state width="1877" height="94" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610242778097" />
     <state x="2360" y="94" key="SettingsEditor" timestamp="1610237804686">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610237804686" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610243798776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243798776" />
   </component>
 </project>
