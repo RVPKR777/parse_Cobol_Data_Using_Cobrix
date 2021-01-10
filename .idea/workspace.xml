@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="3217db45-46ca-4cf4-b417-b099fe2eedc4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/corbix_Example.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/corbix_Example.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/untitled1-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610243717946</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="code_push">
+      <created>1610244365182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610244365182</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,41 +251,41 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2609" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610242685726" />
-    <state x="465" y="114" key="CommitChangelistDialog2" timestamp="1610243717415">
+    <state x="465" y="114" key="CommitChangelistDialog2" timestamp="1610244364689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="465" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243717415" />
+    <state x="465" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610244364689" />
     <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1610243054156">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610243054156" />
-    <state width="1877" height="94" key="GridCell.Tab.0.bottom" timestamp="1610243959400">
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1610261219656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243959400" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610261219656" />
     <state width="1877" height="94" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610242778097" />
-    <state width="1877" height="94" key="GridCell.Tab.0.center" timestamp="1610243959400">
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1610261219656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243959400" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610261219656" />
     <state width="1877" height="94" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610242778097" />
-    <state width="1877" height="94" key="GridCell.Tab.0.left" timestamp="1610243959399">
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1610261219656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243959399" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610261219656" />
     <state width="1877" height="94" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610242778097" />
-    <state width="1877" height="94" key="GridCell.Tab.0.right" timestamp="1610243959400">
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1610261219656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="94" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243959400" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610261219656" />
     <state width="1877" height="94" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610242778097" />
     <state x="2360" y="94" key="SettingsEditor" timestamp="1610237804686">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610237804686" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610243798776">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610244385179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610243798776" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610244385179" />
   </component>
 </project>
