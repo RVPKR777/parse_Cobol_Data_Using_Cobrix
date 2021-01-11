@@ -13,7 +13,7 @@ object corbix_Example {
       .read
       .format("cobol")
       .option("copybook", "copybook path")
-      .option("schema_retention_policy", "collapse_root")    //To check data with schema
+      //.option("schema_retention_policy", "collapse_root")    //To check data with schema
       .load("data file path")
 
     A1df.show(10, truncate = false)
